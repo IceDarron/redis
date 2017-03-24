@@ -34,9 +34,12 @@ http://www.jb51.net/softjc/124506.html
 对于未使用过visual studio（vs）的同学可以参考下，如何使用vs编译redis源码。
 
 vs官网下载：https://www.visualstudio.com/zh-hans/downloads/
+
 vs安装教程：http://jingyan.baidu.com/article/a3761b2bc35c771576f9aaf4.html
+
 通过vs编译redis：http://www.cnblogs.com/raker/p/4368741.html（编译过程可以选择release）
 
 常见问题
+===
 
 redis-server.exe闪退：通过查看日志，发现可能是虚拟内存没有配置
